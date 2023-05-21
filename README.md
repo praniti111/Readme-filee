@@ -1,4 +1,3 @@
-# Readme-filee
 
 <div align="center">
 
@@ -8,14 +7,11 @@
 [![Stars](https://img.shields.io/github/stars/your-username/your-repo)](https://github.com/your-username/your-repo/stargazers)
 [![Repo Size](https://img.shields.io/github/repo-size/your-username/your-repo?color=yellow)](https://github.com/your-username/your-repo)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
 </div>
 
 # Your Project Name
 
-### 📌 Description
+### Description
 
 Write a brief description of your project. Make it quirky to provide contributors with more interactive experiences.
 
@@ -38,20 +34,20 @@ Write a brief description of your project. Make it quirky to provide contributor
 
 <hr>
 
-## 🎥 Demo
+## Demo
 
 Provide a link or embed a demo of your project (if applicable). You can also add screenshots or GIFs to showcase the
 functionality.
 
 <hr>
 
-## 💻 Technologies
+## Technologies
 
 List the technologies and programming languages used in your project.
 
 <hr>
 
-## ✨ Getting Started
+## Getting Started
 
 Include instructions on how to get started with your project. This may include:
 
@@ -68,64 +64,53 @@ We welcome contributions from everyone. Here are some guidelines to get started:
 3. Push to your forked repository: `git push origin your-branch-name`
 4. Open a pull request to the main repository's branch
 
-Please follow the code of conduct in all your interactions with the project.
+Please follow the cotribution guide in all your interactions with the project.
 
 <hr>
 
-<h1 align=center> Project Admins ❤️ </h1>
+<h1 align=center> Project Admins </h1>
 <p align="center">
 <table>
         <tr>
-            <td align="center"><a href="https://github.com/admin github username"><img alt=""
+            <td align="center"><a href="https://github.com/github-username"><img alt=""
                         src="link to the admin's github profile photo" width="100px;"><br><sub><b> Project Admin Name
                         </b></sub></a><br></td> </a></td>
-            <td align="center"><a href="https://github.com/admin github username"><img alt=""
+            <td align="center"><a href="https://github.com/github-username"><img alt=""
                         src="link to the admin's github profile photo" width="100px;"><br><sub><b> Project Admin Name
                         </b></sub></a><br></td></a></td>
 
 </table>
 
-<h1 align=center> Project Mentors 👩‍🏫 </h1>
+<h1 align=center> Project Mentors </h1>
 <p align="center">
 <table>
         <tr>
-            <td align="center"><a href="https://github.com/mentor username"><img alt=""
+            <td align="center"><a href="https://github.com/github-username"><img alt=""
                         src="link to the mentor's github profile photo" width="100px;"><br><sub><b> Mentor Name
                         </b></sub></a><br></td> </a></td>
-            <td align="center"><a href="https://github.com/mentor username"><img alt=""
+            <td align="center"><a href="https://github.com/github-username"><img alt=""
                         src="link to the mentor's github profile photo" width="100px;"><br><sub><b> Mentor Name
                         </b></sub></a><br></td></a></td>
-            <td align="center"><a href="https://github.com/mentor username"><img alt=""
+            <td align="center"><a href="https://github.com/github-username"><img alt=""
                         src="link to the mentor's github profile photo" width="100px;"><br><sub><b> Mentor Name
                         </b></sub></a><br></td></a></td>
-            <td align="center"><a href="https://github.com/mentor username"><img alt=""
+            <td align="center"><a href="https://github.com/github-username"><img alt=""
                         src="link to the mentor's github profile photo" width="100px;"><br><sub><b> Mentor Name
                         </b></sub></a><br></td></a></td>
 
 </table>
 
-<h2 align=center> ✨ Contributors </h2>
+<h1 align=center> Contributors </h1>
 
-Thanks go to these **Wonderful People** 👨🏻‍💻: 🚀 **Contributions** of any kind are welcome!
+Thanks go to these **Wonderful People**: **Contributions** of any kind are welcome!
 
 > Mention the people who successfully contributed to your project as contributors.
 
 <hr>
 
-## 🪪 License
+## License
 
 Include the license information for your project. For example, you can use the MIT License:
 
 This project is licensed under the terms of the [MIT License](LICENSE).
 Feel free to contribute to this repo.
-
-<hr>
-
-## 💬 Join Our Project Group
-
-Join - Group project link such as Telegram, Discord, etc. (If any) 
-
-Feel free to contribute to this repo.
-
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-
